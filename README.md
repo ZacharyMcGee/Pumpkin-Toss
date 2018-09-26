@@ -1,5 +1,7 @@
 # Pumpkin Toss
 
+My entry for a 3 day game jam. 
+
 ## View/Play Here : https://zmcgee.itch.io/pumpkin-toss
 
 ### - Images -
